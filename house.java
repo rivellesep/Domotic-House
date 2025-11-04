@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class house {
+public class house1 {
     // H4 = Menjador
     // H5 = Cuina
     // H6 = Bany
